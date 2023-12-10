@@ -105,6 +105,7 @@ service cron restart > /dev/null 2>&1
 
 TEXT="
 <code>═══════════XRAY/VMESS═══════════</code>
+<code>════════════════════════════════</code>
 <code>➣Remarks    : </code> <code>${user}</code>
 <code>➣Domain     : </code> <code>${domain}</code>
 <code>➣Port TLS   : </code> <code>443</code>
